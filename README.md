@@ -1,25 +1,23 @@
-# Week 5 | Proyecto en equipo
+# DigimonAPI
 
-## Grupo **Ernestina** | Digi-API
+## Frontend team project | React (flux) / TypeScript
 
 <img src="public/Digi-API.jpg" alt="Digi-Api Home image" width="700">
 
 <br>
 
-**_Digi-API_** es una APP que recopila un total de 1400 digimons. El usuario podrá visualizar todos los digimons y sus ID, organizados en grupos de 20 y siguiendo una paginación estructurada.
+**_DigimonAPI_** es una APP que recopila un total de 1400 digimons. El usuario podrá visualizar todos los digimons y sus ID, organizados en grupos de 20 y siguiendo una paginación estructurada.
 
 A su vez, si el usuario realiza un _click_ en cualquier digimon, accederá a la página de _Details_ donde se le enseñará su nombre (_NAME_), su descripción (_DESCRIPTION_), su fecha de lanzamiento (_RELEASE DATE_), su atributo (_ATTRIBUTE_) y su nivel (_LEVEL_).
 
-### **Es un proyecto SPA con varias 'páginas' en _React_, gestionando el estado común con _context_ + _reducer_ (_useReducer_). Se utiliza _scss_, _css-module_ y la app es _responsive_ (mobile + desktop) / mobile first.**
+#### **Es un proyecto SPA con varias 'páginas' en _React_, gestionando el estado común con _context_ + _reducer_ (_useReducer_). Se utiliza _scss_, _css-module_ y la app es _responsive_ (mobile + desktop) / mobile first.**
 
-<br>
 <br>
 
 ## Link al despliegue de la aplicación en Vercel:
 
-https://ernestina-202304-mad.vercel.app/
+https://ks-digimon-api-react.vercel.app
 
-<br>
 <br>
 
 # Índice
@@ -41,7 +39,6 @@ https://ernestina-202304-mad.vercel.app/
 8. [Desarrolladores del proyecto](#desarrolladores-del-proyecto)
 
 <br>
-<br>
 
 ## Scripts
 
@@ -52,15 +49,13 @@ https://ernestina-202304-mad.vercel.app/
 `npm run preview`: runs the built app
 
 <br>
-<br>
 
 ## Estado del proyecto
 
 <br>
 
-![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-red)
+![COMPLETED](https://img.shields.io/badge/COMPLETED-green.svg)
 
-<br>
 <br>
 
 ## Instrucciones del proyecto en grupos
@@ -78,6 +73,8 @@ Mínimo de páginas (vistas):
 
 - Alguna/s de ellas se tiene que cargar mediante lazy loading.
 
+<br>
+
 La app se conectará a una **API pública** de vuestra elección y listará los elementos. En dicho listado tiene que haber paginación y también un filtro como mínimo. Filtrado en la misma página del listado. Al filtrar, no dirigimos al usuario a otra página, se queda en el listado y el listado cambia.
 
 A partir de este listado tendréis que crear otro listado conectado a una **API privada** (API local mediante JSON-server), donde implementaréis CRUD.
@@ -87,7 +84,9 @@ A partir de este listado tendréis que crear otro listado conectado a una **API 
 
 La interfaz debe dar feedback de cuando se está esperando una response de las APIs, y también debe gestionar los errores de éstas.
 
-Requisitos:
+<br>
+
+**Requisitos**:
 
 - Diseño en Figma
 - Listado de componentes y responsabilidades
@@ -111,30 +110,12 @@ Requisitos:
 - Testing con coverage. Todos los tipos de tests que hemos visto.
 - Optimizada (Lighthouse en Netlify / Vercel)
 
-## Challenge WeekEnd
-
-- Seleccionar
-  - API: probarla -> consistencia / rendimiento / no pago
-- Diseño en Figma
-- Listado de componentes y responsabilidades
-- Trello:
-  - Columnas Backlog, ToDo, In progress, Review/Testing y Done
-
-Entregamos en Discord:
-
-- Nombre y url API
-- Link Figma
-- Link Trello
-- Link Listado componentes
-
-<br>
 <br>
 
 ## Listado de componentes
 
 https://www.notion.so/202304-w5-isdi-coders/API-Digimon-26fc7622ac1c4150aa460b4f88dfd002
 
-<br>
 <br>
 
 ## Tecnologías utilizadas
@@ -146,7 +127,6 @@ https://www.notion.so/202304-w5-isdi-coders/API-Digimon-26fc7622ac1c4150aa460b4f
 - Sass
 - Vite
 
-<br>
 <br>
 
 ## Desarrolladores del proyecto

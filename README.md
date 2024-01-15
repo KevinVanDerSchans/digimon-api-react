@@ -14,7 +14,7 @@ A su vez, si el usuario realiza un _click_ en cualquier digimon, accederá a la 
 
 <br>
 
-## Link al despliegue de la aplicación en Vercel:
+## Deploy:
 
 https://ks-digimon-api-react.vercel.app
 
@@ -24,7 +24,7 @@ https://ks-digimon-api-react.vercel.app
 
 1. [Título, nombre del grupo y descripción del proyecto](#week-5--proyecto-en-equipo)
 
-2. [Link al despliegue de la aplicación en *Vercel*](#link-al-despliegue-de-la-aplicación-en-vercel)
+2. [Deploy](#deploy)
 
 3. [Scripts](#scripts)
 

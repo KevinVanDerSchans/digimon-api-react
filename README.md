@@ -1,12 +1,12 @@
-# Bootcamp ISDI Coders | Proyecto en equipo
+# Week 5 | Proyecto en equipo
 
-## DigimonAPI
+## Grupo **Ernestina** | Digi-API
 
-<img src="public/Digi-API.jpg" alt="DigimonAPI project overview" width="700">
+<img src="public/Digi-API.jpg" alt="Digi-Api Home image" width="700">
 
 <br>
 
-**_DigimonAPI_** es una APP que recopila un total de 1400 digimons. El usuario podrá visualizar todos los digimons y sus ID, organizados en grupos de 20 y siguiendo una paginación estructurada.
+**_Digi-API_** es una APP que recopila un total de 1400 digimons. El usuario podrá visualizar todos los digimons y sus ID, organizados en grupos de 20 y siguiendo una paginación estructurada.
 
 A su vez, si el usuario realiza un _click_ en cualquier digimon, accederá a la página de _Details_ donde se le enseñará su nombre (_NAME_), su descripción (_DESCRIPTION_), su fecha de lanzamiento (_RELEASE DATE_), su atributo (_ATTRIBUTE_) y su nivel (_LEVEL_).
 
@@ -17,14 +17,14 @@ A su vez, si el usuario realiza un _click_ en cualquier digimon, accederá a la 
 
 ## Link al despliegue de la aplicación en Vercel:
 
-https://digimon-api-react.vercel.app
+https://ernestina-202304-mad.vercel.app/
 
 <br>
 <br>
 
 # Índice
 
-1. [Título, nombre del grupo y descripción del proyecto](#bootcamp-isdi-coders--proyecto-en-equipo)
+1. [Título, nombre del grupo y descripción del proyecto](#week-5--proyecto-en-equipo)
 
 2. [Link al despliegue de la aplicación en *Vercel*](#link-al-despliegue-de-la-aplicación-en-vercel)
 
@@ -58,7 +58,7 @@ https://digimon-api-react.vercel.app
 
 <br>
 
-![COMPLETED](https://img.shields.io/badge/COMPLETED-green.svg)
+![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-red)
 
 <br>
 <br>
@@ -155,3 +155,6 @@ https://www.notion.so/202304-w5-isdi-coders/API-Digimon-26fc7622ac1c4150aa460b4f
 | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <br>
+
+
+[def]: https://img.shields.io/badge/coverage-100%-green

@@ -2,8 +2,16 @@
 
 ## Frontend team project | React (flux) / TypeScript
 
-<img src="public/Digi-API.jpg" alt="Digi-Api Home image" width="700">
+<div align="center">
+  <img src="public/Digi-API.jpg" alt="Digi-Api Home image" width="700">
 
+  <br>
+
+  <img src="public/testing-results.png" alt="Testing results" width="700">
+
+</div>
+
+<br>
 <br>
 
 **_DigimonAPI_** es una APP que recopila un total de 1400 digimons. El usuario podrá visualizar todos los digimons y sus ID, organizados en grupos de 20 y siguiendo una paginación estructurada.
